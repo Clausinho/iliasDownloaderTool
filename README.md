@@ -46,7 +46,7 @@ Build with SDKMAN!
     ```
 2. Install Java 8 with JavaFX and Maven 3.3.9:
     ```shell
-   sdk install java 8.0.232.fx-zulu
+   sdk install java 8.0.282.fx-zulu
    sdk install maven 3.3.9
     ```
    With `sdk list java` or `sdk list maven`, you can find the other available versions.
